@@ -1,0 +1,177 @@
+.ft-header-section.header-style-two .ft-header-main-menu .ft-main-navigation li {
+    margin-left: 35px;
+}
+.ft-thx-about-section {
+    padding: 70px 0px 100px;
+ }
+ .ft-service-section-3{
+     padding-top: 80px;
+ }
+ .ft-faq-why-choose-us-section {
+     padding-bottom: 90px;
+     padding-top: 80px;
+ }
+ .ft1-main-footer {
+     position: relative;
+     margin-top: 0px;
+     padding: 80px 0px 0px;
+     background-image: linear-gradient(360deg, #04326f, #031e40d1)!important;
+ }
+ .ft3-cta-section-two .content {
+    position: relative;
+    text-align: center;
+    color: #fff;
+ }
+ .ft-service-section-3 {
+     background-color: #ffffff;
+ }
+ .ft-thx-about-section {
+     background-color: #ffffff;
+ }
+ .ft-header-section.header-style-two .ft-header-cta-info:before {
+    border-top: 55px solid #f28c1f;
+ }
+ .ft-header-section.header-style-two .ft-header-cta-info {
+    background-color: #f3961e;
+}
+.ft-header-section.header-style-two .ft-header-main-menu .ft-site-logo {
+    width: 240px;
+    padding: 10px 15px;
+    background-color: #ffffff;
+}
+.ft-header-section.header-style-two .ft-header-main-menu .ft-site-logo:before {
+    border-bottom: 80px solid #f3961e;
+}
+.ft-header-section.header-style-two .ft-header-main-menu .ft-site-logo:after {
+    background-color: #f3961e;
+}
+.ft-header-section.header-style-two .ft-header-main-menu-wrapper {
+    background-color: #05295c;
+}
+.ft-header-section.header-style-two .ft-header-top {
+    background-color: #063371;
+}
+.ft-header-section.header-style-two .ft-header-cta-info:after {
+    background-color: #f3961e;
+}
+.ft-header-section.header-style-two .ft-header-cta-btn a:hover {
+    background-color: #f3961e;
+    border: 2px solid #f3961e;
+}
+.scrollup {
+    background-color: #f3961e;
+}
+.theme_color {
+    color: #f3961e;
+}
+.btn-style-one:hover {
+    color: #ffffff;
+    background-color: #05295c;
+}
+.btn-style-one .icon {
+    background-color: #ffffff;
+    color: #f3961e;
+}
+.btn-style-one {
+    background-color: #f3961e;
+}
+.btn-style-one:hover .icon {
+    color: #ffffff;
+    background-color: #f3961e;
+}
+.ft-section-title-3 span {
+    color: #f3961e;
+}
+.ft-service-innerbox-3 .ft-service-text-icon:after {
+    background-color: #f3961e;
+}
+.ft-service-innerbox-3 .ft-service-icon {
+    background-color: #fff;
+    border: 10px solid #05295c;
+}
+.pr-cor-section-title .pr-cor-title-tag {
+    color: #f3961e;
+}
+.ft3-cta-section-two .read-more {
+    background-color: #f3961e;
+}
+.space{
+    margin-top: 200px;
+    margin-bottom: 50px;
+}
+.terms{
+    margin-top: 50px;
+}
+h6.marq {
+    color: red;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1.5;
+    font-family: auto;
+}
+.radius{
+    border-radius: 50px;
+}
+.list-link li a:hover {
+    color: #f3961e;
+}
+.page-padding {
+    padding: 80px 0px;
+    background-color: #f7fafd;
+}
+.ft-project-overview-text-wrapper {
+    padding-top: 0px;
+}
+.ft-blog-section-3 {
+    padding: 70px 0px;
+}
+.ft-blog-innerbox-3 .ft-blog-text .more-btn {
+    background-color: #f3961e;
+}
+.blog-slider-3 .slick-dots li.slick-active {
+    border: 4px solid #05295c;
+}
+.ft1-welcome-section .content-column .inner-column {
+    padding-top: 0px;
+}
+.ft1-welcome-section .image-column .image:before {
+    background-color: #f3961e;
+}
+
+.img-shape {
+    border-radius: 10px;
+}
+
+.view {
+    display: flex;
+    align-items: center;
+}
+
+h3.heading {
+    color: #fff;
+    font-weight: 600;
+}
+.ft-thx-help-section .background_overlay {
+    z-index: 1;
+    height: 310px;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+.ft-thx-help-section .ft-thx-help-bg {
+    height: 310px;
+}
+.btn-style-three:hover {
+    color: #ffffff !important;
+    background-color: #f3961e;
+}
+.ft-thx-faq-section {
+    padding: 50px 0px 80px;
+}
+
+@media screen and (max-width:425px) {
+    .color-layer {
+        display: none;
+    }
+    .side-icon {
+        display: none;
+    }
+}
